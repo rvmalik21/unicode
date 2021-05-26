@@ -11,6 +11,7 @@ public class Table
 		Scanner sc=new Scanner(System.in);
 				int n=sc.nextInt();
 				sc.close();
+				System.out.println("Here your Table ");
 		for(i=1;i<=10;i++)
 		{
 			int tab=n*i;
